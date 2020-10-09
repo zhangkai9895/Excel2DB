@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e34bd5b-7ebf-45d0-8e93-eb1b5f26e98e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="student@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="student@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="student@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="student: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="student@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="student: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="course: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ibKLHSZ2a5FuDA7NWUZcVdRK7T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/GithubRepositories/course_select" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Excel2DB">
+    <configuration name="Excel2DB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excel2DB" />
+      <module name="ExcelReader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelReader" />
+      <module name="ExcelReader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Excel2DB" />
+        <item itemvalue="Application.ExcelReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e34bd5b-7ebf-45d0-8e93-eb1b5f26e98e" name="Default Changelist" comment="" />
+      <created>1602170793885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602170793885</updated>
+      <workItem from="1602170799262" duration="2305000" />
+      <workItem from="1602224074003" duration="10171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602227856926">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1602227856926" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602227407053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602227407053" />
+    <state width="1237" height="429" key="GridCell.Tab.0.bottom" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state width="1237" height="429" key="GridCell.Tab.0.center" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state width="1237" height="429" key="GridCell.Tab.0.left" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state width="1237" height="429" key="GridCell.Tab.0.right" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state width="1237" height="429" key="GridCell.Tab.1.bottom" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state width="1237" height="429" key="GridCell.Tab.1.center" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state width="1237" height="429" key="GridCell.Tab.1.left" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state width="1237" height="429" key="GridCell.Tab.1.right" timestamp="1602234268004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="429" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602234268004" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602227520022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602227520022" />
+    <state x="425" y="162" width="431" height="352" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1602233780316">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="162" width="431" height="352" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1280.680@0.0.1280.680" timestamp="1602233780316" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1602224079611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602224079611" />
+  </component>
+</project>
